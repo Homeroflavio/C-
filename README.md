@@ -1,4 +1,4 @@
-# C-
+# C#
 # A história e algumas curiosidades sobre a linguagem de progamação C#:
 ![image](https://www.jetbrains.com/guide/assets/csharp-logo-265a149e.svg)
 
